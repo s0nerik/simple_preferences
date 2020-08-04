@@ -1,0 +1,10 @@
+name: simple_preferences
+environment:
+  sdk: ">=2.8.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  shared_preferences: ^0.5.7+3
+  rxdart: ^0.24.1
+  meta:
